@@ -2,4 +2,4 @@
 
 
 
-This repository is for all of my coursework for E 322.
+This repository is for all of my coursework for CPE 322.
